@@ -11,6 +11,7 @@ function as a service
     - [aws-sdk-js](https://github.com/aws/aws-sdk-js) AWS SDK for JavaScript in the browser and Node.js
 - [awesome-serverless](https://github.com/anaibol/awesome-serverless)
 - [plugins](https://github.com/serverless/plugins)
+  - [search plugins](https://serverless.com/plugins/)
   - [serverless-offline](https://github.com/dherault/serverless-offline) Emulate AWS λ and API Gateway locally when developing your Serverless project
 - other
   - [Serverless 应用开发指南](https://serverless.ink/#serverless-dynamodb-%E9%83%A8%E7%BD%B2)
